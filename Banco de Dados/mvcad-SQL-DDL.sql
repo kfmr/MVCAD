@@ -35,5 +35,5 @@ create table medico (
 	id_pessoa int references pessoa(id) not null
 )
 */ 
---select * from medico
+
 
