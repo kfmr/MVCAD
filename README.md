@@ -4,6 +4,8 @@ Repositório com os exercícios realizados durante a o bootcamp Maria Vai Com As
 
 A iniciativa abordou as seguintes tecnologias:
 - Python
+- SQL
 - PostgreSQL
 - Flask - desenvolvimento de API
+- Metodologias ágeis
 
